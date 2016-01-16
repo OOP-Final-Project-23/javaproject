@@ -1,0 +1,13 @@
+GitHub is a social network which was originally created for programmers and developers to assimilate their codes online, however now it is used widely for a plethora of other applications. Previously companies created and stored their knowledge in private but since the creation of GitHub major companies like Facebook and Google have stuff that you can access, study, download and build upon using GitHub.
+
+GitHub is mainly like any other social networking site where individuals build profiles and then store documents. Most people of course, store coding projects and programs but text files and any other kind of project can as easily be stored.
+
+Unlike most social networking sites, however, GitHub provides really agreeable Terms of Services and claim no intellectual property rights over any of the projects being uploaded by the user.
+
+Git is the software that runs at the base of GitHub. Git is a version control software which means that it can add changes to a project without overwriting any part of that project. The users of GitHub can also have the assurance that this software will not seize to exist suddenly as Git is used to develop the core kernel layer of Linux.
+
+The problem that GitHub very efficiently counters is that when two people are simultaneously working at the same project but on separate and one of them uploads a file a few seconds before the other one, the file that was formerly uploaded would be overwritten by the latter file. Github helps counter this problem as both the files, if compiled using GitHub would not cause this problem. All this is done by GitHub version control.
+
+GitHub makes the use of Git a lot easier. Using GitHub can provide an interface for us to locally manage and edit our projects on our machine. The projects of other GitHub users are also available for all users to download and later copy and edit as a learning procedure and playing around with the ways of other programmers and coders’ techniques.
+
+Command line is used to input Git commands. A GitHub repository is a storage space where individuals store their projects. A repository can be a storage space on GitHub or on an offline device such as a person’s computer. Files of all kinds can be stored in a GitHub repo ranging from images, text files to codes, etc. Commit is basically taking a snapshot of GitHub and your projects in their current state. So, you don’t have to save backup of each version of your work before integrating it or updating it. This helps with the Version Control; a purpose GitHub was majorly made to serve. Users working on the same file or project “branch-off”, this helps them work independently until they are done and ready to merge their files which is then done by GitHub version control.
